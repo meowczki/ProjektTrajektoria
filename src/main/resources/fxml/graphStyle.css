@@ -1,0 +1,16 @@
+.chart-symbol {
+    -fx-background-color: yellow;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+.default-color1.chart-symbol {
+    -fx-background-color: #a9e200;
+    -fx-background-radius: 0;
+}
+.default-color2.chart-symbol {
+    -fx-background-color: #22bad9;
+    -fx-background-radius: 0;
+    -fx-padding: 7px 5px 7px 5px;
+    -fx-shape: "M5,0 L10,9 L5,18 L0,9 Z";
+}
+
